@@ -14,6 +14,7 @@ export const gamePackages = [
     description: "Performa stabil",
     price: "Rp 20.000",
     features: ["100 Slots", "RAM 4GB", "CPU 150%", "Disk 20GB"],
+    ribbon: "Recommended"
   },
   {
     icon: Gamepad2,
@@ -28,6 +29,7 @@ export const gamePackages = [
     description: "Untuk server medium sampai besar",
     price: "Rp 40.000",
     features: ["300 Slots", "RAM 16GB", "CPU 200%", "Disk 20GB"],
+    ribbon: "Medium Server"
   },
   {
     icon: Gamepad2,
@@ -35,6 +37,7 @@ export const gamePackages = [
     description: "Cocok untuk server besar",
     price: "Rp 50.000",
     features: ["500 Slots", "RAM 32GB", "CPU 300%", "Disk 20GB"],
+    ribbon: "Big Server"
   },
   {
     icon: Gamepad2,
@@ -42,6 +45,7 @@ export const gamePackages = [
     description: "CUSTOM ORDER, Sesuaikan dengan kebutuhanmu",
     price: "Rp XX.XXX",
     features: ["XXX Slots", "RAM XXX", "CPU XXX%", "Disk XXX"],
+    ribbon: "Custom Order"
   },
   {
     icon: Gamepad2,
