@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="text-xl font-bold text-gray-200">Cykooonetwork</span>
             </div>
             <p className="text-gray-400">
-              Platform hosting masa depan dengan teknologi terkini dan support 24/7.
+              Seller hosting amanah dan support 24/7.
             </p>
           </div>
 
@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-gray-500">
-          <p>&copy; 2024 Cykooonetwork. All rights reserved.</p>
+          <p>&copy; 2025 Cykooonetwork. All rights reserved.</p>
         </div>
       </div>
     </footer>
