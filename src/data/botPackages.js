@@ -53,6 +53,7 @@ export const botPackages = [
     icon: Bot,
     title: "BENEFITs",
     description: "Benefit yang kamu dapatkan jika menggunakan bot hosting kami",
+    price: "Benefits",
     features: ["Support Discord, WhatsApp & Telegram", "Online 24/7", "Tidak Memakan Memory HP Anda", "Tidak membuat HP Anda Panas", "Anti DDoS terbaru dan sudah teruji"],
     ribbon: "Your Benefit"
   }

@@ -44,9 +44,10 @@ export const gamePackages = [
     features: ["XXX Slots", "RAM XXX", "CPU XXX%", "Disk XXX"],
   },
   {
-    icon: Bot,
+    icon: Gamepad2,
     title: "BENEFITs",
     description: "Benefit yang kamu dapatkan jika menggunakan GTA SA-MP hosting kami",
+    price: "Benefits",
     features: ["Support Linux & Windows Plugin", "Online 24/7", "Tidak Memakan Memory HP Anda", "Tidak membuat HP Anda Panas", "Anti DDoS terbaru dan sudah teruji"],
     ribbon: "Your Benefit"
   }
